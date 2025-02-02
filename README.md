@@ -10,12 +10,9 @@ Hi, I'm Zeyad Khaled!
 ```
 zeyadkhaled1@github
 -------------------------
-💻 I am a Student at Faculty of Enginnering Ain Shams University
-📝 I have a strong interest in BackEnd and Web Development
-🔭 Working on Full Stack Projects
-🌱 Learning about Web Development Stuff
-🌟 Main languages: Python, JavaScript
-🚩 Interested in Full Stack  Application development
+💻 I am a Freelancer DataEnginner 
+📝 I have a strong interest in WebScraping & Automation
+🔭 Working on Scriping,Automation,Scraping,Data Engineering such as ETL,ELT Pipelines ,Orchestrators
 ```
 <hr>
 <h2><img src = "https://i.pinimg.com/originals/65/c4/f4/65c4f452571be1261e9c623f7da488ac.gif" width ="35"> Github Stats </h2>
