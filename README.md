@@ -4,7 +4,7 @@ Hi, I'm Zeyad Khaled!
 
 <br/>
 <p align="left">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=I'm+a+full+stack+developer;Always+learning+new+things;Youtuber;Freelancer&center=true&width=380&height=45"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=F7F7F7&width=435&lines=Data+Engineering;Web+Scraping;Automation"></a>
 </p>
 
 ```
